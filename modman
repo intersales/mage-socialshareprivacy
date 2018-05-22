@@ -1,0 +1,27 @@
+#
+#	Intersales Modman Magento Configuration
+#
+
+#layouts
+app/design/frontend/base/default/layout/* app/design/frontend/base/default/layout/
+
+#templates
+app/design/frontend/base/default/template/intersales/* app/design/frontend/base/default/template/intersales/
+
+#code
+app/code/community/Intersales/* app/code/community/Intersales/
+
+#module declaration
+app/etc/modules/* app/etc/modules/
+
+#translations
+app/locale/de_DE/* app/locale/de_DE/
+
+#stylesheets
+skin/frontend/base/default/css/intersales/* skin/frontend/base/default/css/intersales/
+
+#images
+skin/frontend/base/default/images/intersales/* skin/frontend/base/default/images/intersales/
+
+#javascripts
+js/intersales/* js/intersales/
